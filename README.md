@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Astolfo+Valentim+-+Dev+Back-End)](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=astolfovalentim&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Astolfo Valentim github stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astolfovalentim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=astolfovalentim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astolfovalentim&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
+<p align="center">
   <br />
   <img src="https://raw.githubusercontent.com/astolfovalentim/astolfovalentim/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=astolfovalentim&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -50,4 +50,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
